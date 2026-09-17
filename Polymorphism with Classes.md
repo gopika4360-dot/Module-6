@@ -14,7 +14,7 @@ To create two specific classes — `Beans` and `Mango`. Then, create a **generic
 
 2. **Create Class `Mango`**:
    - Define `type()` method that prints `"Fruit"`.
-   - Define `color()` method that prints `"Yellow"`.
+   - Define `color()` method that prints `"Yellow"`
 
 3. **Define Generic Function `func(obj)`**:
    - Call `obj.type()` and `obj.color()` — this works with both `Beans` and `Mango` objects, showcasing **polymorphism**.
