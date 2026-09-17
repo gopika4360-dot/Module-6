@@ -18,7 +18,7 @@ To implement **Encapsulation** in Python by defining a class `Rectangle` with **
    - Display the private variables from within the class to demonstrate access.
 
 4. **Instantiate the Object**:
-   - Create an object of the `Rectangle` class to trigger the constructor.
+   - Create an object of the `Rectangle` class to trigger the constructor
 
 ---
 
