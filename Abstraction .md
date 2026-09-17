@@ -9,7 +9,7 @@ To create an **abstract class** named `Shape` with an **abstract method** `calcu
 ## 🧠 ALGORITHM
 
 1. **Import ABC module**:
-   - Use `from abc import ABC, abstractmethod` to define abstract classes and methods.
+   - Use `from abc import ABC, abstractmethod` to define abstract classes and methods
 
 2. **Create Abstract Class `Shape`**:
    - Define an abstract method `calculate_area()` with `@abstractmethod`.
