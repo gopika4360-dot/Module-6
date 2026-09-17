@@ -11,7 +11,7 @@ To write a Python program that demonstrates class inheritance by creating a pare
 4. Create an instance of the `Shark` class named `obj_hammerhead`.
 5. Use a `for` loop to iterate over both objects.
 6. Within the loop, call the `type()` method using the loop variable.
-7. Output will demonstrate method overriding: printing `"fish"` and `"shark"` accordingly.
+7. Output will demonstrate method overriding: printing `"fish"` and `"shark"` accordingly
 
 ## 💻 PROGRAM:
 
